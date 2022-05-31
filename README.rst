@@ -21,3 +21,9 @@ While researching a custom-built portable computer I stumbled upon the Mira 13.3
 Command line interface
 ----------------------
 The device itself is spectacular but the settings application that is provided is slightly disappointing. The main feature I miss is scriptability, or a command line interface. So why not develop one myself?
+
+Inspiration
+===========
+This project was inspired by the sources of the settings application provided by Onyx Boox. If you are interested in these sources yourself, head over to `this document`__.
+
+.. __: appimage_analysis.rst
